@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aakritimoda
 - 👀 I’m interested in getting a job in data analysis
-- 🌱 I’m currently learning R programming
-- 💞️ I’m looking to collaborate on R projects
+- 🌱 I’m currently learning Python programming
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me - reach me at akritim613@gmail.com
 
 <!---
